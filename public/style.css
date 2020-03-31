@@ -1,0 +1,21 @@
+#map {
+  display: block;
+  margin: 0 auto;
+  border: 2px outset rgb(231, 231, 6);
+}
+
+.wrapper {
+  position: relative;
+  width: 900px;
+  height: 550px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+#score {
+  position: relative;
+  right: 0;
+  top: 0;
+  margin-left: 390px;
+  font-size: 45px;
+}
