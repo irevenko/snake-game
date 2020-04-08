@@ -14,3 +14,6 @@ Made this little game for Web Dev College labs to learn VanillaJS
 * Some JS OOP
 * Basic Game Dev (a little bit of Geometry and Algebra)
 * window Object
+
+# License 📑 
+(c) 2020 Ilya Revenko. [MIT License](https://tldrlegal.com/license/mit-license)
